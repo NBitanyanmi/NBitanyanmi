@@ -11,7 +11,7 @@
 - **Data:** Pandas, NumPy, Scikit-learn, Power BI
 
 - ## 🔥 Featured Projects  
-📌 **[LMS Web App](https://app.netlify.com/sites/serenitymlsa/overview)** – A React-based learning management system integrated with Azure Document Intelligence.
+📌 **[LMS Web App](https://serenitymlsa.netlify.app/) – A React-based learning management system integrated with Azure Document Intelligence.
 
 - 👀 I’m interested in Data Science Projects
 - 🌱 I’m currently learning Azure Databricks, Azure Data Factory, Azure Synapse Analytics
