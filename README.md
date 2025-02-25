@@ -2,6 +2,8 @@
 - 🚀 **Data Scientist | Python Developer | Azure Enthusiast**
 - 🎓 **MTech Data Science | Microsoft Learn Student Ambassador**
 
+  ---
+
   
 - ## 🛠️ Skills & Tools  
 - **Languages:** Python, SQL, JavaScript  
@@ -9,9 +11,11 @@
 - **Backend:** Flask, FastAPI  
 - **Cloud:** Microsoft Azure  
 - **Data:** Pandas, NumPy, Scikit-learn, Power BI
+  ---
 
 - ## 🔥 Featured Projects  
 📌 **[LMS Web App](https://serenitymlsa.netlify.app/) – A React-based learning management system integrated with Azure Document Intelligence.
+---
 
 - 👀 I’m interested in Data Science Projects
 - 🌱 I’m currently learning Azure Databricks, Azure Data Factory, Azure Synapse Analytics
@@ -19,6 +23,7 @@
 - 📫 How to reach me: justicennyiimock@gmail.com
 - 😄 **Pronouns:** he/him/his
 - ⚡ **Fun fact:** Passionate about transforming data into insights.
+- ---
 
 <!---
 NBitanyanmi/NBitanyanmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
